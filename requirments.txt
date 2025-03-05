@@ -1,0 +1,6 @@
+
+pandas
+numpy
+torch==1.13.0  # or any other version you're using
+streamlit==1.12.0  # or your Streamlit version
+
